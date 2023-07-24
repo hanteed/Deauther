@@ -31,4 +31,4 @@ Run the code
 
 
 ## Disclaimer ⚠️
-This project should be used for educational purposes only. i will not be held responsible for the things you can do with it. Remember to only use this script on networks you own.
+This project should be used for educational purposes only. I will not be held responsible for the things you can do with it. Remember to only use this script on networks you own.
